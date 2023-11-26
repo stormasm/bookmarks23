@@ -15,6 +15,6 @@
 
 ---
 
-1. E - extra
+* E - extra
   * ED - sled
   * SL - schnapslatte
