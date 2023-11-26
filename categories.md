@@ -2,7 +2,7 @@
 
 * A - finance
 * B - bluemesa
-* C - key (stuff)
+* C - category keys
 * L - local, legal
 * M - music
 * N - nushell
