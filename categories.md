@@ -18,6 +18,5 @@
 * E - extra tech
   * ED - sled
   * SL - schnapslatte
-
 * X - overflow
   * legal
