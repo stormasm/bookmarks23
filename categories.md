@@ -3,7 +3,7 @@
 * A - finance
 * B - bluemesa
 * C - category keys
-* L - local, legal
+* L - local
 * M - music
 * N - nushell
 * P - python
@@ -11,11 +11,13 @@
 * S - spanish
 * T - travel, tech
 * W - weather
-* X - overflow
 * Y - youtube
 
 ---
 
-* E - extra
+* E - extra tech
   * ED - sled
   * SL - schnapslatte
+
+* X - overflow
+  * legal
